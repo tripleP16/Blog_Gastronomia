@@ -34,5 +34,18 @@
 
 #botonera{
     background-color: gray;
+    padding: 5%;
 }
+
+.titulo {
+    color: #1779ba;
+    font-weight:bold;
+}
+
+.imagen {
+    border-width:2px;
+    border-style: solid;
+    border-color: white;
+}
+
 
