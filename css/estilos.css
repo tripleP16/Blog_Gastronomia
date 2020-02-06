@@ -3,6 +3,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Poppins', sans-serif;
+    width:100%;
 }
 #contenedor {
     background-color: aqua;
@@ -48,4 +49,28 @@
     border-color: white;
 }
 
+.historial{
+    text-align: center;
+}
 
+.receta1{
+    background-color: aqua;
+    padding:8%;
+    color: gray;
+    text-align:justify;
+}
+
+#arroz{
+    width: 60%;
+ 
+}
+.comentario{
+    background-color: gray;
+    color: black;
+    padding: 4%;
+    width:100%;
+}
+
+.tituloReceta{
+   text-align:center;
+}
