@@ -1,4 +1,38 @@
-﻿body
-{
-    background-image
+﻿body {
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
 }
+#contenedor {
+    background-color: aqua;
+    opacity: 0.8;
+    padding: 1%;
+}
+
+#titulo{
+    border-width: 6px;
+    border-style: dotted;
+    border-color: white;
+}
+
+#slogan {
+    text-align: right;
+}
+
+#barraBusqueda {
+    background-color: aqua;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.95;
+}
+#Buscar{
+    margin-top:2%;
+    padding: 5%;
+}
+
+#botonera{
+    background-color: gray;
+}
+
