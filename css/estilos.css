@@ -1,9 +1,7 @@
 ﻿body {
     background-image: url(../img/fondo.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     font-family: 'Poppins', sans-serif;
-    width:100%;
 }
 #contenedor {
     background-color: aqua;
